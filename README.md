@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**erivelton-jr/erivelton-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Erivelton Junior | Seja bem vindo(a) ao meu perfil :D
 
-Here are some ideas to get you started:
+Olá! Meu nome é Erivelton Junior, estudo Analise e Desenvolvimento de Sistemas na Unicesumar e estou disposto desenvolver minhas habilidades com foco em Machine Learning e Analise de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eriveltonjr/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/jrluzz_/)
+
+## Habilidades
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+## Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erivelton-jr&show_icons=true&theme=radical) 
