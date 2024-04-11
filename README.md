@@ -1,7 +1,7 @@
 
 # Erivelton Junior | Seja bem vindo(a) ao meu perfil :D
 
-Olá! Meu nome é Erivelton Junior, estudo Analise e Desenvolvimento de Sistemas na Unicesumar e estou disposto desenvolver minhas habilidades com foco em Machine Learning e Analise de Dados.
+Olá! Meu nome é Erivelton Junior, estudo Analise e Desenvolvimento de Sistemas na Unicesumar e estou disposto desenvolver minhas habilidades com foco em Machine Learning e Ciência de Dados.
 
 ## Conecte-se comigo!
 
@@ -12,6 +12,10 @@ Olá! Meu nome é Erivelton Junior, estudo Analise e Desenvolvimento de Sistemas
 
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" width="40" height="40" style="max-width: 100%;"></a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a> <a href="https://www.mysql.com/" rel="nofollow"> </a>
+
+## O que estou aprendendo
+
+<a href="https://aws.amazon.com/" rel="nofollow"> <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws" width="40" height="40" style="max-width: 100%;"></a>
 
 ## Status
 <div align="center">  
